@@ -1,4 +1,4 @@
-name: "forgtc"
+name: "azure_onnx"
 platform: "onnxruntime_onnx"
 max_batch_size: 16
 input [
